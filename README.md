@@ -15,4 +15,4 @@
 
 选择重命名这台电脑，不能有中文，然后重启就ok了。
 
-<img width="1096" alt="image" src="https://github.com/dengjiahao12/VivadoBug/assets/144973506/e188e8d7-e2e4-42c7-9b9b-33d39ef801f0">
+<img width="1096" alt="image" src="https://github.com/dengjiahao12/VivadoBug/assets/144973506/e188e8d7-e2e4-42c7-9b9b-33d39ef801f0" style="zoom:50%;">
