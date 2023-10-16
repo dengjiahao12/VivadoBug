@@ -18,8 +18,10 @@
 <img width="1096" alt="image" src="https://github.com/dengjiahao12/VivadoBug/assets/144973506/e188e8d7-e2e4-42c7-9b9b-33d39ef801f0" style="zoom:33%;">
 
 
+
 ### 2、Windows11安装vivado没有下载器的问题 ### 
 参考博客：" https://blog.csdn.net/qq_40677883/article/details/128505311 "的最下面
 点击安装路径：D:\dev\Xilinx\Vivado\2023.1\data\xicom\cable_drivers\nt64\digilent 下的install_digilent.exe
 安装完就能检测到JTAG口了
+
 <img width="269" alt="image" src="https://github.com/dengjiahao12/VivadoBug/assets/144973506/37acd5e3-2b21-4b46-890d-7505c3a4451f">
